@@ -1,4 +1,4 @@
-# Python实现阿里云域名DDNS支持ipv4和ipv6
+# 阿里云DDNS动态解析IPv4/IPv6域名
 
 需要安装的库：
 ```
